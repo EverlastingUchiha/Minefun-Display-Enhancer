@@ -81,4 +81,4 @@ You can modify the default values or the preset definitions directly in the scri
 
 ---
 
-**Short Description:** Adjustable game display filter enhancer.
+
